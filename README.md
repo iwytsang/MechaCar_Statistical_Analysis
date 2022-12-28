@@ -1,10 +1,10 @@
 # MechaCar Statistical Analysis
 
 ## Linear Regression to Predict MPG
-![image](https://user-images.githubusercontent.com/108503112/209709113-8afd1398-0e87-4759-9629-c0b0874a608f.png)
+![image](https://user-images.githubusercontent.com/108503112/209883416-0b21b199-804d-4ff2-b7ae-2f8fdc794225.png)
 
-The multiple R-squared value of 0.3715
-The slope is not zero due to the p-value being 2.632 x 10^6.
+The multiple R-squared value of 
+The slope is not zero due to the p-value being 
 
 ## Summary Statistics on Suspension Coils
 ![image](https://user-images.githubusercontent.com/108503112/209722720-fede5a79-7c08-4c52-be3a-380c545e1fcd.png)
