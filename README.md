@@ -12,3 +12,4 @@ The slope is not zero due to the p-value being 2.632 x 10^6.
 ![image](https://user-images.githubusercontent.com/108503112/209722744-eaca25a1-a9a2-48a8-a30f-dfcc90ae802c.png)
 
 ## Study Design: MechaCar vs Competition
+![image](https://user-images.githubusercontent.com/108503112/209742923-3353f46b-c5e9-4f14-a474-392281da9490.png)
