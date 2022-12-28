@@ -11,7 +11,7 @@ The slope is not zero due to the p-value being
 
 ![image](https://user-images.githubusercontent.com/108503112/209722744-eaca25a1-a9a2-48a8-a30f-dfcc90ae802c.png)
 
-## Study Design: MechaCar vs Competition
+## T-Tests on Suspension Coils
 ![image](https://user-images.githubusercontent.com/108503112/209742923-3353f46b-c5e9-4f14-a474-392281da9490.png)
 
 
@@ -20,3 +20,4 @@ The slope is not zero due to the p-value being
 ![image](https://user-images.githubusercontent.com/108503112/209882565-332fc6f7-0709-43aa-bc1d-ba8cb0c8defd.png)
 
 ![image](https://user-images.githubusercontent.com/108503112/209882502-2ea0dfe1-ed71-4cdd-b575-8bb7bf6d0cbc.png)
+## Study Design: MechaCar vs Competition
