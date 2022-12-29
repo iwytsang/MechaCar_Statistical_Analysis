@@ -3,7 +3,7 @@
 ## Linear Regression to Predict MPG
 ![image](https://user-images.githubusercontent.com/108503112/209883416-0b21b199-804d-4ff2-b7ae-2f8fdc794225.png)
 
-The multiple R-squared value of 0.7149 means
+Vehicle weight
 The slope is not zero due to the p-value being 5.35 x 10^11
 
 ## Summary Statistics on Suspension Coils
