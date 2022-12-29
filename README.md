@@ -27,7 +27,7 @@ Yes it meets the design specifications for all lots. However,, individually, it 
 
 ![image](https://user-images.githubusercontent.com/108503112/209895632-bf4a8478-8699-43c7-9ca1-42b46b4f447d.png)
 
-![image](https://user-images.githubusercontent.com/108503112/209895958-1fa7934d-36f0-4066-9013-ec4aaffa026d.png)
+![image](https://user-images.githubusercontent.com/108503112/209896169-2f09c629-5884-4fd6-bcbc-e3420f3c545b.png)
 
 ![image](https://user-images.githubusercontent.com/108503112/209895993-3b14d73a-3fb2-4fb0-9c27-012a2e413096.png)
 ## Study Design: MechaCar vs Competition
