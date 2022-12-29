@@ -3,7 +3,10 @@
 ## Linear Regression to Predict MPG
 ![image](https://user-images.githubusercontent.com/108503112/209883416-0b21b199-804d-4ff2-b7ae-2f8fdc794225.png)
 
-Vehicle weight
+Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+Vehicle Weight.
+
+Is the slope of the linear model considered to be zero? Why or why not?
 The slope is not zero due to the p-value being 5.35 x 10^11
 
 ## Summary Statistics on Suspension Coils
