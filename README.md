@@ -22,16 +22,15 @@ For the individual lots, the variance of the suspension coils for lot 1 and lot 
 ## T-Tests on Suspension Coils
 ![image](https://user-images.githubusercontent.com/108503112/209742923-3353f46b-c5e9-4f14-a474-392281da9490.png)
 
-briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
-The t-test for all lots indicates that the true mean is equal to 1500.
-
 ![image](https://user-images.githubusercontent.com/108503112/209895632-bf4a8478-8699-43c7-9ca1-42b46b4f447d.png)
-The t-test for lot 1 indicates that the true mean is equal to 1500.
 
 ![image](https://user-images.githubusercontent.com/108503112/209896169-2f09c629-5884-4fd6-bcbc-e3420f3c545b.png)
-The t-test for lot 2 indicates that the true mean is equal to 1500.
 
 ![image](https://user-images.githubusercontent.com/108503112/209895993-3b14d73a-3fb2-4fb0-9c27-012a2e413096.png)
+
+The t-test for all lots indicates that the true mean is equal to 1500.
+The t-test for lot 1 indicates that the true mean is equal to 1500.
+The t-test for lot 2 indicates that the true mean is equal to 1500.
 The t-test for lot 3 indicates that the true mean is not equal to 1500 and that the null (alternate) hypothesis is true.
 
 ## Study Design: MechaCar vs Competition
