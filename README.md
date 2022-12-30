@@ -28,10 +28,10 @@ For the individual lots, the variance of the suspension coils for lot 1 and lot 
 
 ![image](https://user-images.githubusercontent.com/108503112/209895993-3b14d73a-3fb2-4fb0-9c27-012a2e413096.png)
 
-The t-test for all lots indicates that the true mean is equal to 1500.
-The t-test for lot 1 indicates that the true mean is equal to 1500.
-The t-test for lot 2 indicates that the true mean is equal to 1500.
-The t-test for lot 3 indicates that the true mean is not equal to 1500 and that the null (alternate) hypothesis is true.
+The t-test for all lots with p-value at 0.4533 indicates that the true mean is equal to 1500 because our sample is not significantly different from 1500.
+The t-test for lot 1 with p-value at 1 indicates that the true mean is equal to 1500.
+The t-test for lot 2 with p-value at 0.6072 indicates that the true mean is equal to 1500.
+The t-test for lot 3 with p-value at 0.04168 indicates that the true mean is not equal to 1500 and that the null (alternate) hypothesis is true.
 
 ## Study Design: MechaCar vs Competition
 A statistical study between the MechaCar vs Competition would be that the mean cost of the MechaCar would be cheaper than a competitor's cost.
