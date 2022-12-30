@@ -37,5 +37,7 @@ The t-test for lot 2 indicates that the true mean is equal to 1500.
 The t-test for lot 3 indicates that the true mean is not equal to 1500 and that the null (alternate) hypothesis is true.
 
 ## Study Design: MechaCar vs Competition
-A statistical study between the MechaCar vs Competition would be regarding cost vs. speed.
-The null hypothesis would be that the 
+A statistical study between the MechaCar vs Competition would be that the mean cost of the MechaCar would be cheaper than a competitor's cost.
+The null hypothesis would be that the mean cost of the MechaCar would not be cheaper than the competitor.
+We would need to use the two-sample t-test to test the hypothesisn because we would have two samples - one from the MechaCar and one from another a competitor.
+The data we would need would be the cost of all the MechaCar vehicles by vehicle ID, as well as the cost of the competitor's vehicles. 
