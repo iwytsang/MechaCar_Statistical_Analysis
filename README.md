@@ -5,8 +5,7 @@
 
 Based on the Pr(>|t|) value, the variables that provided a non-random amount of variance to mpg values in the dataset would be VVehicle Weight, due to its value of 0.0776. A small Pr(>|t|) value means that the variables are unlikely to have a random relationship with the mpg value due to chance.
 
-The slope is not zero due to the p-value being 5.35 x 10^11
-
+The slope is not zero due to the p-value being 5.35 x 10^-11 which is much smaller than the significance level of 0.05.
 
 The linear model does predict mpg of MechaCar prototypes effectively because of the Multiple R-squared value of 0.7149, meaning 71.49% of the variance found in the mpg is due to vehicle weight. 
 
