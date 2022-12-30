@@ -37,3 +37,4 @@ The t-test for lot 2 indicates that the true mean is equal to 1500.
 The t-test for lot 3 indicates that the true mean is not equal to 1500 and that the null (alternate) hypothesis is true.
 
 ## Study Design: MechaCar vs Competition
+A statistical study between the MechaCar vs Competition would be
